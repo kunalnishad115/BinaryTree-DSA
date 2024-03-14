@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9c55c5-6d1b-4f0b-8170-e66419021e4e" name="Changes" comment="">
+    <list default="true" id="4d9c55c5-6d1b-4f0b-8170-e66419021e4e" name="Changes" comment="implementation of basics of binarytree">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarytreepractice/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytreepractice/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarytreepractice/BinaryTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytreepractice/BinaryTreeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarytreepractice/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytreepractice/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +67,26 @@
       <updated>1710261682508</updated>
       <workItem from="1710261683552" duration="1828000" />
       <workItem from="1710263544782" duration="370000" />
-      <workItem from="1710263922784" duration="712000" />
+      <workItem from="1710263922784" duration="1417000" />
+      <workItem from="1710319362190" duration="9000" />
+      <workItem from="1710433910734" duration="3173000" />
     </task>
+    <task id="LOCAL-00001" summary="implementation of basics of binarytree">
+      <option name="closed" value="true" />
+      <created>1710264919179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710264919179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implementation of basics of binarytree" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation of basics of binarytree" />
   </component>
 </project>
