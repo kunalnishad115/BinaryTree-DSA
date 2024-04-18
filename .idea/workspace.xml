@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9c55c5-6d1b-4f0b-8170-e66419021e4e" name="Changes" comment="implementation of basics of binarytree">
+    <list default="true" id="4d9c55c5-6d1b-4f0b-8170-e66419021e4e" name="Changes" comment="implementation of basics of binarytree.&#10;treversal like pre,post,in,levelorder treversal implemented.">
+      <change afterPath="$PROJECT_DIR$/src/binarytreepractice/BinaryTreeOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarytreepractice/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytreepractice/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarytreepractice/BinaryTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytreepractice/BinaryTreeMain.java" afterDir="false" />
@@ -24,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kunalnishad115&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kunalnishad115/BinaryTree-DSA.git&quot;,
+    &quot;accountId&quot;: &quot;735082fb-e7f4-4f4f-8d92-f53f3b0ff051&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -50,10 +63,31 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="BinaryTreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarytreepractice.BinaryTreeMain" />
+      <module name="BinaryTree-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarytreepractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryTreeMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -69,7 +103,29 @@
       <workItem from="1710263544782" duration="370000" />
       <workItem from="1710263922784" duration="1417000" />
       <workItem from="1710319362190" duration="9000" />
-      <workItem from="1710433910734" duration="3173000" />
+      <workItem from="1710433910734" duration="3414000" />
+      <workItem from="1710438142771" duration="39000" />
+      <workItem from="1710484969163" duration="21000" />
+      <workItem from="1710734698819" duration="7000" />
+      <workItem from="1710818392013" duration="10000" />
+      <workItem from="1710924074807" duration="12000" />
+      <workItem from="1711153775485" duration="254000" />
+      <workItem from="1711439112683" duration="128000" />
+      <workItem from="1711804687613" duration="10000" />
+      <workItem from="1712078092800" duration="105000" />
+      <workItem from="1712133847191" duration="14000" />
+      <workItem from="1712576667839" duration="8000" />
+      <workItem from="1712682877100" duration="1458000" />
+      <workItem from="1712684593423" duration="788000" />
+      <workItem from="1712685390631" duration="759000" />
+      <workItem from="1712738446350" duration="33000" />
+      <workItem from="1713254627937" duration="179000" />
+      <workItem from="1713254814054" duration="2000" />
+      <workItem from="1713288172569" duration="3321000" />
+      <workItem from="1713291546070" duration="8000" />
+      <workItem from="1713459804770" duration="18000" />
+      <workItem from="1713462888951" duration="85000" />
+      <workItem from="1713463089735" duration="860000" />
     </task>
     <task id="LOCAL-00001" summary="implementation of basics of binarytree">
       <option name="closed" value="true" />
@@ -79,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710264919179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implementation of basics of binarytree.&#10;treversal like pre,post,in,levelorder treversal implemented.">
+      <option name="closed" value="true" />
+      <created>1710437995330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710437995330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementation of basics of binarytree" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementation of basics of binarytree" />
+    <MESSAGE value="implementation of basics of binarytree.&#10;treversal like pre,post,in,levelorder treversal implemented." />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation of basics of binarytree.&#10;treversal like pre,post,in,levelorder treversal implemented." />
   </component>
 </project>

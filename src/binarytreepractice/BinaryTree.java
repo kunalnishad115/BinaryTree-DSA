@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Queue;
 public class BinaryTree {
-    Node root;
+    private Node root;
 
     BinaryTree() {
         Scanner sc = new Scanner(System.in);
@@ -35,8 +35,6 @@ public class BinaryTree {
         System.out.println(root.data);
         preorderprint(root.left);
         preorderprint(root.right);
-
-
     }
     public void displayInoreder(){
         System.out.println("INORDER PRINT : ");
